@@ -1,0 +1,32 @@
+body {
+    background-color: #f7f7fa;
+}
+
+h1 {
+    color: limegreen;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    border-top: 3px solid #4286f4;
+    padding: 7px;
+    text-align: left;
+}
+
+th {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    border-top: 3px solid #4286f4;
+    padding: 7px;
+    color: black;
+    background: #E0FFFF;
+}
+
+.cover-image {
+    width: 150px;
+    height: auto;
+}
