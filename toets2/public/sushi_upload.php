@@ -36,6 +36,7 @@ if ($con->query($sql)=== TRUE){
 else{
   echo "<script>alert('Error".$sql."<br>".$con->error.";</script>";
 }
+}
 
  ?>
 
